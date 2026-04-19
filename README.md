@@ -8,3 +8,5 @@ pip install customtkinter qrcode[pil] cryptography requests pillow (AES-256 Vaul
 
 # Advanced-Password-Utility-Pro-v1.0
 The Advanced Password Utility developed by Anmol Thakur (MCA-AI, Shoolini University) is a comprehensive cybersecurity application designed to address modern authentication vulnerabilities. Built entirely in Python with a focus on modern user experience and cryptographic security. This project serves as a robust, privacy-first alternative.
+
+<img width="493" height="681" alt="image" src="https://github.com/user-attachments/assets/179507c4-c033-49c0-9ca0-55e60132515a" />
